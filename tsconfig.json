@@ -1,0 +1,10 @@
+{
+    "files": [
+        "ts/core.ts",
+        "ts/test.ts"
+    ],
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "target": "es6"
+    }
+}
